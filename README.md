@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" style="border-radius:50;%" width="100"/>
   <div id="badges">
-      <a href="[https://www.linkedin.com/in/mary-mutuku-629944103/](https://www.linkedin.com/in/billy-kiseu-a524022a2/)">
+      <a href="https://www.linkedin.com/in/billy-kiseu-a524022a2">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://www.youtube.com/channel/UC9u3_9Bga2LJaTcYTf71-0g">
