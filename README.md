@@ -43,8 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="45" height="45" style="background-color:white; border-radius:8px; padding:5px; margin: 5px;"/>
 </div>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
