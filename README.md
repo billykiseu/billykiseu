@@ -25,7 +25,7 @@
 
 ---
 
-### :hammer_and_wrench: Specialized Toolbox :
+### :hammer_and_wrench: My Toolbox :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="45" height="45" style="background-color:white; border-radius:8px; padding:5px; margin: 5px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="45" height="45" style="background-color:white; border-radius:8px; padding:5px; margin: 5px;"/>
